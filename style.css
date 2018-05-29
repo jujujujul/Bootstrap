@@ -1,1 +1,10 @@
+.border {
+    background-color: darkgrey;
+    border: 1px grey ;
+    border-radius: 15px;
+    
+}
 
+.row{
+    text-align: center;
+}
